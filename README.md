@@ -1,16 +1,39 @@
 ### ~~ HI HI ~~ 👋👋
+### 我是 109403535 資管二 洪琬哲
 
 
-**annis971027/annis971027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 學歷
+* 國立中央大學資訊管理學系學士班（2020–）
+* 高雄市立高雄女子高級中學（2017–2020）
 
-Here are some ideas to get you started:
+## 語言能力
+* 多益聽力閱讀750分
+* 日語（聽力、口說）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 專業技能
+* C/C++
+* python
+* Java
+* Office文書處理
 
+## 專長
+> 游泳校隊
+* 2021全國大專院校運動會 一般女子組4x200公尺自由式接力 第六名 全校最高紀錄
+* 2022全國大專院校運動會 一般女子組4x100公尺自由式接力 第二名 全校最高紀錄
+* 2022全國大專院校運動會 一般女子組4x200公尺自由式接力 第三名
+* 2021全國大專院校運動會 一般女子組200公尺蝶式 第七名 全校最高紀錄
+
+## 社團經驗
+> 中央大學雄友會返鄉服務營隊
+* 服務精神
+* 團隊合作能力
+* 人際關係
+* 溝通協調能力
+* 表達能力
+* 時間管理能力
+* 危機處理能力
+
+## 興趣
+* 追劇（動漫、韓劇、日劇、陸劇）
+* 追星（super junior）
+* 看漫畫、小說
